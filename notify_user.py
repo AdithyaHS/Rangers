@@ -16,7 +16,7 @@ MAIL_SERVER = "localhost.cs.indiana.edu"
 MAIL_PORT = 465
 MAIL_USE_SSL = True
 MAIL_USERNAME = "rentnleaseservice@gmail.com"
-MAIL_PASSWORD = "rentnlease#2019"
+MAIL_PASSWORD = "rentnlease#2019"      
 MAIL_DEFAULT_SENDER = "rentnleaseservice@gmail.com"
 
 app = Flask(__name__)
